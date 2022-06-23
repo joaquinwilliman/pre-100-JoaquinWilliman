@@ -1,0 +1,307 @@
+body{
+
+    background-color: #FEFCF9;
+    color: #C1272D;
+    font-family: 'Carter One', cursive;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.todoelcontenido { margin: 0px auto !important;
+    width: 90% !important; }
+
+.logoheader {text-align: center;
+    width: 150px;
+  padding: 10px}
+  .logoheader :hover { opacity: 50%; }   
+
+
+
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.mapa { width: 375px; height: 375px; }
+
+.cajascon3fotosindex { display: flex; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.card { padding: 5px;
+         margin: 5%;}
+
+.contenedormapa { margin-left: 10%; }
+
+.contenidoindex { display: flex; margin-top: 10%; margin-bottom: 10%; }
+.cajabannercuadrado { width: 30%; }
+  .fototour { width: 100%; }
+
+
+
+/* css de meet&greet */
+
+.divtodoelcontenido { margin: 0px auto !important;
+    width: 90% !important; }
+
+.logoheader {text-align: center;
+width: 150px;
+margin: auto;
+padding: 10px}
+
+.logoheader :hover { opacity: 50%; }            
+
+.logoalbum { width: 100%; }
+
+.contenedorimagenbanner { width: 25%;
+         margin: auto;}
+.fotobanner { width: 100%; }
+
+.contenedortitulollegorosalia { 
+
+margin: 0px auto;
+text-align: center;
+font-size: 50px;
+
+}
+
+.llegorosalia { margin: 0px auto; 
+margin-top: 35px;}
+.lugaryfecha { font-size: 35px; }
+
+
+
+.Participaparaconocerla { margin: 50px;
+       margin-bottom: 0px;
+         padding: 0px; 
+       font-size: 30px;}
+         
+
+
+
+.contenedorformulario { 
+
+border:  #C1272D;
+border-style: solid;
+border-width: 6px;
+border-top-left-radius: 30px;
+border-bottom-right-radius: 30px;
+margin-top: 0px !important;
+margin: 20px;
+width: 100%;
+
+}
+
+.formulario {
+
+margin: 10px;
+
+}
+
+.rellenoformulario { color: #FEFCF9; background-color: #C1272D; border-color: #C1272D; border-radius: 10px; width: 80%;}
+
+textarea { width: 97% !important; }
+::placeholder { color: #FEFCF9;}
+
+
+.botonformulario { color: #FEFCF9; background-color: #C1272D; font-size: 20px; text-align: center; border-color: #C1272D; border-radius: 10px; }
+.botonformulario:hover {
+box-shadow: 0 12px 16px 0 rgba(255, 0, 0, 0.24), 0 17px 50px 0 rgba(255, 4, 4, 0.19);
+color: #C1272D; background-color: #FEFCF9;
+border-radius: 5px;}
+
+
+
+
+.titulosformulario { 
+
+padding: 0px;
+margin: 0px;
+}
+
+
+
+.caja-slider { width: 50%; }
+
+
+
+.contedordevideo { margin: auto; 
+   }
+
+
+   .cajaformyslider { background: #eae3c980; display: flex;}
+
+
+.slider { width: 250px; }
+
+.ganatemerch { font-size: auto; }
+
+.mySlides { width: 100%; }
+
+.video { margin-left: 100px;
+
+}
+
+.titulovideo { margin-left: 100px;
+margin-top: 120px; clear: both; }
+
+
+
+
+
+
+  footer { background-color: #C1272D; color: #FEFCF9; text-align: center;}
+i { color: #FEFCF9; font-size: 40px; margin: 10px;}
+i:hover { opacity: 50%; }
+
+
+/* css de CV */
+.divtodoelcontenido { width: 90%; margin: auto; }
+
+
+.franjabordo { background-color: #C1272D; display: flex; }
+.titulos { color: #FEFCF9; text-align: center; }
+
+.infoedad { color: #FEFCF9; text-align: center; }
+
+.cajaconfoto { text-align: center; }
+.fotoredonda { width: 35%; border-radius: 50%; margin: 20px; }
+
+.nombre { padding: 0px; }
+.nombrerosalia { font-size: 100px; margin: 20px; margin-left: 10%;}
+.lineanombre { width: 80%; size: 20px; font-size: 20px; }
+
+
+
+.infoprimaria { margin-bottom: 5%;  border-top: 4px #C1272D solid;  }
+
+.contenidogeneral { display: flex; }
+
+
+.cajaformacionacademica { margin-bottom: 5%; }
+.subtitulos { padding: 0% !important; margin: 0% !important; }
+
+.discografia { margin-left: 5%; }
+
+.contenedorrevistas { display: flex; justify-content: center;}
+.fotovogue { width: 100%; }
+.imagenesrevista { width: 20%; margin: 5%; }
+.años { text-align: center; }
+
+.añosalbum { font-size: 15px; text-align: center; }
+
+footer { background-color: #C1272D; color: #FEFCF9; text-align: center;}
+i { color: #FEFCF9; font-size: 40px; margin: 10px;}
+i:hover { opacity: 50%; }
+
+h6 { font-size: 40px; }
+.titulocontactanos { background-color: #eae3c980; padding: 5%;}
+.todoelcontenidoform { display: flex; width: 90%; margin: auto;}
+.formulariocontacto { width: 40%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 3%; }
+.posterform { width: 35%; margin-left: 20%;}
+
+
+
+
+
+@media (max-width: 830px) {
+
+  .contenidogeneral {
+    display: flex;
+    flex-direction: column-reverse;
+    }
+
+    .contenedorrevistas {
+      display: flex;
+      justify-content: center;
+  }
+
+    .cajacondatos { margin: 5%; }
+    
+    .fotoredonda {
+      width: 80%;
+      border-radius: 50%;
+      margin: 20px;}
+
+
+  
+  
+
+
+
+}
+
+
+
+@media (max-width: 480px) { 
+  .franjabordo { flex-direction: column; }
+  .nombre { text-align: center; }
+  .fotoredonda { width: 65%; }
+  .nombrerosalia { font-size: 60px; margin: 20px;}
+  .contenidogeneral { margin-top: 5%;; display: flex; flex-direction: column-reverse;}
+  .contenedorrevistas { display: flex; flex-direction: column-reverse;}
+  .imagenesrevista { width: 90%; margin: auto;}
+
+.contenidoindex { flex-direction: column; }
+
+
+  .mapa { width: 300px; height: 300px; }
+  .contenedormapa { margin: 0% !important; }
+.cajabannercuadrado {width: 90%; }
+.cajascon3fotosindex {
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-direction: column;
+    margin: 0%;}
+
+
+    .contenedorimagenbanner {
+        width: 70%;
+        margin: auto;
+    }
+
+    .cajaformyslider { flex-direction: column; }
+    .caja-slider {  width: 100%;}
+    .rellenoformulario {
+        color: #FEFCF9;
+        background-color: #C1272D;
+        border-color: #C1272D;
+        border-radius: 10px;}
+
+
+
+        .contenedorformulario {
+            border: #C1272D;
+            border-style: solid;
+            border-width: 6px;
+            border-top-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+            margin-top: 0px !important;
+            margin: 20px;
+        width: 90%;}
+
+        .Participaparaconocerla {
+            margin: 24px;
+            margin-bottom: 24px;
+            font-size: 25px;
+        }
+
+
+.titulovideo { margin: 25px; }
+
+.video {
+    width: 300px;
+    height: auto;
+    margin: 30px;
+   
+}
+
+.formulariocontacto { width: 100%; padding: 5%; }
+.posterform { width: 100%; margin: 0%; }
+.todoelcontenidoform {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-direction: column-reverse;
+}
+
+}
